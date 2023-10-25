@@ -1,0 +1,21 @@
+@font-face{
+    font-family:"ZX spectrum 7 Bold"
+    src: url("fonts/zx_spectrum-7_bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+.mytext {
+
+    font-family: 'ZX Spectrum 7 Bold', sans-serif;
+}
+.centr{
+    text-align:center;
+}
+.opis{
+    align:center;
+    color:black;
+}
+html{
+    
+    background-color:pink;
+}
